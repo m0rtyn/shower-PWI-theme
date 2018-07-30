@@ -21,7 +21,7 @@
     "template"
   ],
   "files": [
-    "pictures/**",
+    "material/pictures/**",
     "index.html",
     "LICENSE.md",
     "README.md"
